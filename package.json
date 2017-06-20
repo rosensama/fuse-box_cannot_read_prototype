@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "node fuse"
+  },
+  "dependencies": {
+    "events": "^1.1.1",
+    "react": "^15.6.1"
+  },
+  "devDependencies": {
+    "auth0-lock": "^10.17.0",
+    "babel-core": "^6.25.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.2",
+    "fuse-box": "^2.2.0-beta",
+    "typescript": "^2.3.4",
+    "uglify-js": "^3.0.18"
+  }
+}
